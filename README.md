@@ -1,0 +1,1 @@
+sample configs for git2consul testing
