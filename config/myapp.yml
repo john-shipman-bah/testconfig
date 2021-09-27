@@ -1,2 +1,12 @@
 root:
-  key1: value 1
+  key1:
+    key1a:
+      key1a1: value 1
+      key1a2: value 2
+  key2: value 3
+  key3: 
+    skills:
+      - python
+      - perl
+      - pascal
+
